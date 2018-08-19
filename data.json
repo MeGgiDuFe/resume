@@ -1,0 +1,60 @@
+{
+	"details":{
+		"Image":"person.png",
+		"Name":"Maggi",
+		"contact":"+91955045321",
+		"Email":"meghanapotu153@gmail.com",
+		"ADDRESS":"vignan nirula institute of technology and science for women"
+	},
+	"careerobjectives":{
+		"Info1":"works as student",
+		"qualification":"CSE"
+	},
+	"education":
+	[
+		{
+			"qualification":"B.tech",
+			"pecent":"85",
+			"institute":"VNIW",
+			"yearofpass":"2020"
+		},
+		{
+			"qualification":"Intermediate",
+			"percent":"93.6",
+			"institute":"NRI Junior college",
+			"yearofpass":"2016"
+		},
+		{
+			"qualification":"SSC",
+			"percent":"92",
+			"institute":"AKSHARA HIGH",
+			"yearofpass":"2014"
+		}
+
+
+	],
+	"technicalskills":
+	[
+		{
+			"title":"programming languages",
+			"info":["c","cpp","java","python"]
+		},
+		{
+			"title":"Data Bases",
+			"info":["sql","mysql","Oracle",".Net"]
+		},
+		{
+			"title":"Operating Systems",
+			"info":["Linux","UBUNTU","Windows","MACOS"]
+		}	
+	],
+	"achievements":
+	[
+		{
+			"titles":"done project on python"
+		},
+		{
+			"titles":"got certificate in IOT"
+		}
+	]	
+}
